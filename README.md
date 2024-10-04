@@ -1,2 +1,2 @@
 # gitrepo
-just practicing how to use git
+I don't know how to use git/github but I am learning.
