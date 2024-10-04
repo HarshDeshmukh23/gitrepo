@@ -1,2 +1,2 @@
 # gitrepo
-first git repo
+just practicing how to use git
